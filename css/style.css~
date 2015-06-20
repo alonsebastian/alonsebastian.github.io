@@ -344,7 +344,7 @@ body a:hover{
 	padding:6.9em 0 0;
 }
 .text-info2{
-	padding:6em 0 0;
+	padding:5.5em 0 0;
 }
 .text-info h4{
 	color: #fff;
@@ -1060,3 +1060,4 @@ body a:hover{
 	  color: #fff;
    }
 }
+ #mc-embedded-subscribe {text-align: center;}
