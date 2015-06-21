@@ -376,7 +376,7 @@ body a:hover{
 .about-info{
 	margin: 5em 0em 0 0em;
 	float: right;
-	width: 37%;
+	width: 45%;
 }
 .about h3{
 	color:#000;
@@ -1060,3 +1060,4 @@ body a:hover{
 	  color: #fff;
    }
 }
+#mc-embedded-subscribe {text-align: center;}

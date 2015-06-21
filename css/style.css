@@ -29,6 +29,7 @@ ul,label{
 body a:hover{
 	text-decoration:none;
 }
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 /*-- banner --*/
 .banner{
 	background:url(../images/banner.jpg) no-repeat 0px 0px;
@@ -376,7 +377,7 @@ body a:hover{
 .about-info{
 	margin: 5em 0em 0 0em;
 	float: right;
-	width: 37%;
+	width: 45%;
 }
 .about h3{
 	color:#000;
