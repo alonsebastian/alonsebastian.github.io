@@ -166,7 +166,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div id="optin" style="width: 60%; margin:0 auto">
 <form action="//alonsebastian.us11.list-manage.com/subscribe/post?u=c02262a2a8865c7e4fb84cb01&amp;id=b937e9f103" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2     style="margin: 0 auto;">Invitaciones para la prueba beta cerrada</h2>
+	<h2>Invitaciones para la prueba beta cerrada</h2>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
 
 		<div class="response" id="mce-error-response" style="display:none"></div>

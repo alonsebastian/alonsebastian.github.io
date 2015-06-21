@@ -1062,7 +1062,6 @@ body a:hover{
 }
 #optin {
 	background: #f9f9f9 url(images/gloss.png) no-repeat bottom center;
-	border-bottom: 3px solid #6c6c6c;
 	color: #000;
 	padding: 20px 15px;
 }
@@ -1077,14 +1076,13 @@ body a:hover{
 		-moz-box-shadow: 0 2px 2px #5a5a5a;
 		-webkit-box-shadow: 0 2px 2px #5a5a5a
 	}
-		#optin input.email { background: #fff url(images/email.png) no-repeat 10px center; padding-left: 35px;}
+		#optin input.email { background: #fff center; padding-left: 35px;}
 		#optin input[type="submit"] {
 			background: #e1b401 repeat-x top;
 			color: #fff;
 			cursor: pointer;
 			font-size: 14px;
 			font-weight: bold;
-			padding: 8px 0;
 			text-shadow: -1px -1px #562806;
 			text-transform: uppercase;
 			width: 40%;

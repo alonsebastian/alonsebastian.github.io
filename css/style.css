@@ -1076,7 +1076,7 @@ body a:hover{
 		-moz-box-shadow: 0 2px 2px #5a5a5a;
 		-webkit-box-shadow: 0 2px 2px #5a5a5a
 	}
-		#optin input.email { background: #fff url(images/email.png) no-repeat 10px center; padding-left: 35px;}
+		#optin input.email { background: #fff 10px center;}
 		#optin input[type="submit"] {
 			background: #e1b401 repeat-x top;
 			color: #fff;
