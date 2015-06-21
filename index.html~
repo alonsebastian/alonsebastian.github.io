@@ -168,7 +168,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div id="mc_embed_signup_scroll">
 <center>
 	<h2>Buscamos atletas para nuestra beta privada!</h2>
-	<h5 style="padding-top: 15px; padding-bottom:15px;">Nos encontramos buscando deportistas que quieran conocer Stayfit y ayudarnos a mejorar el producto, dejanos tu email y nos contactaremos.</h3>
+	<h5 style="padding-top: 15px; padding-bottom:15px; width:80%;">Nos encontramos buscando deportistas que quieran conocer Stayfit y ayudarnos a mejorar el producto, dejanos tu email y nos contactaremos.</h3>
 	<input type="email" value="E-mail" name="EMAIL" class="email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
 
 		<div class="response" id="mce-error-response" style="display:none"></div>
