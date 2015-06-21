@@ -168,7 +168,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div id="mc_embed_signup_scroll">
 <center>
 	<h2>Buscamos atletas para nuestra beta privada!</h2>
-	<h5>Nos encontramos buscando deportistas que quieran conocer Stayfit y ayudarnos a mejorar el producto, dejanos tu email y nos contactaremos.</h3>
+	<h5 style="padding-top: 15px; padding-bottom:15px;">Nos encontramos buscando deportistas que quieran conocer Stayfit y ayudarnos a mejorar el producto, dejanos tu email y nos contactaremos.</h3>
 	<input type="email" value="E-mail" name="EMAIL" class="email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
 
 		<div class="response" id="mce-error-response" style="display:none"></div>
@@ -188,6 +188,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="footer-left">
 				<p>Copyright © 2015 Express. All Rights Reserved | Design by<a href="http://w3layouts.com/"> W3layouts</a></p>
 			</div>
+<!--
 			<div class="footer-right">
 				<ul>
 					<li><a href="#" class="twitter"> </a></li>
@@ -196,6 +197,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li><a href="#" class="be"> </a></li>
 				</ul>
 			</div>
+-->
 			<div class="clearfix"> </div>
 		</div>
 	</div>
