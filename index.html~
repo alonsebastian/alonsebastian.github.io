@@ -38,11 +38,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <body>
 <!-- banner -->
 	<div class="banner">
-		<div class="container">
-			<div class="header">
-				<div class="logo">
+				<div class="logo" style="left-margin:50px; top-margin:50px;">
 					<a href="index.html"><img src="images/logo.png" alt=" " /></a>
 				</div>
+		<div class="container">
+			<div class="header">
 				<div class="logo-right">
 					<span class="menu"><img src="images/menu.png" alt=" "/></span>
 						<nav class="cl-effect-1">
@@ -51,7 +51,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<li><a href="#portfolio" class="scroll">Tecnología</a></li>
 								<li><a href="#about" class="scroll">Nosotros</a></li>
 								<li><a href="#optin" class="scroll">Contacto</a></li>
-								<li><a href="/en" class="scroll">English</a></li>
+								<li><a href="/en">English</a></li>
 							</ul>
 						</nav>
 				</div>
