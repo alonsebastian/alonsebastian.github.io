@@ -364,8 +364,13 @@ body a:hover{
 }
 /*-- //portfolio --*/
 /*-- about --*/
-.about{
+.aboutseba{
 	background:url(../images/5.jpg) no-repeat 0px 0px;
+}
+.aboutjere{
+	background:url(../images/6.jpg) no-repeat 0px 0px;
+}
+.about{
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
