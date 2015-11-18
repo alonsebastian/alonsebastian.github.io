@@ -156,8 +156,8 @@ body a:hover{
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
   -moz-osx-font-smoothing: grayscale;
   position: relative;
   background:none;
@@ -364,8 +364,13 @@ body a:hover{
 }
 /*-- //portfolio --*/
 /*-- about --*/
-.about{
+.aboutseba{
 	background:url(../images/5.jpg) no-repeat 0px 0px;
+}
+.aboutjere{
+	background:url(../images/6.jpg) no-repeat 0px 0px;
+}
+.about{
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
